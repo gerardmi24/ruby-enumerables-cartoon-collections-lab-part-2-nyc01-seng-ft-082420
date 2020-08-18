@@ -26,6 +26,7 @@ planeteer_calls.each do |element|
 end
 long_planeteer_calls(planeteer_calls)
 end
+end
 
 def find_valid_calls(planeteer_calls)
   valid_calls = ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
