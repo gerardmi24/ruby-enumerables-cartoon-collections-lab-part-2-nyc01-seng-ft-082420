@@ -23,7 +23,6 @@ planeteer_calls.each do |element|
   if element.length > 4
     true
 end
-long_planeteer_calls(planeteer_calls)
 end
 end
 
