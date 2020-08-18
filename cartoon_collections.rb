@@ -25,9 +25,9 @@ planeteer_calls.each do |element|
     true
   else short_calls << element.length
 end
-end
 long_planeteer_calls(planeteer_calls)
 long_planeteer_calls(short_calls)
+end
 end
 
 def find_valid_calls(planeteer_calls)
