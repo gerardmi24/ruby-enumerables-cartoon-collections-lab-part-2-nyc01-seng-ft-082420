@@ -23,7 +23,7 @@ def long_planeteer_calls(planeteer_calls)
   # Return the boolean result of this check
 planeteer_calls.each do |element|
   if element.length > 4
-    puts "true"
+    element
 end
 planeteer_calls
 end
