@@ -1,4 +1,4 @@
-require pry
+require "pry"
 
 def square_array(array)
   # Use an Enumerable to square every element in the passed in array
