@@ -32,3 +32,4 @@ def find_valid_calls(planeteer_calls)
   if planeteer_calls = valid_calls
     puts "#{planeteer_calls}"
 end
+end
