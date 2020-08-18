@@ -23,11 +23,7 @@ def long_planeteer_calls(planeteer_calls)
   # Return the boolean result of this check
 
 variable = planeteer_calls.any? do |element|
-  if element.length > 4
-    element
-end
-binding.pry
-long_planeteer_calls
+
 end
 end
 
