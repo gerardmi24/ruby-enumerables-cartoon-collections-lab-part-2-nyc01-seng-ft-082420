@@ -24,7 +24,6 @@ planeteer_calls.each do |element|
     true
 end
 end
-long_planeteer_calls
 end
 
 def find_valid_calls(planeteer_calls)
