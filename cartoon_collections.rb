@@ -23,7 +23,8 @@ planeteer_calls.each do |element|
   if element.length > 4
     puts "true"
 end
-
+end
+planeteer_calls
 end
 
 def find_valid_calls(planeteer_calls)
