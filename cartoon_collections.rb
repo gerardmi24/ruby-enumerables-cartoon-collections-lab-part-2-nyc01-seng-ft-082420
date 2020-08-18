@@ -26,7 +26,7 @@ planeteer_calls.each do |element|
   else short_calls << element.length
 end
 end
-long_planeteer_calls (planeteer_calls)
+long_planeteer_calls(planeteer_calls)
 long_planeteer_calls(short_calls)
 end
 
