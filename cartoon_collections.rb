@@ -32,4 +32,3 @@ def find_valid_calls(planeteer_calls)
     element.include? valid_calls
     end
 end
-end
